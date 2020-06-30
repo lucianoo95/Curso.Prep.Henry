@@ -96,7 +96,7 @@ Esto descargará el repositorio y tendrás disponible una copia local guardada e
 ### Comandos de git:
 
 Durante estas lecciones interactuaremos con git a través de la terminal. En el futuro, podrías estar interesado en usar una interfaz visual/gráfica, pero durante estas lecciones necesitaremos usar la terminal para acceder a todas las funciones de git.
-
+J
 En este ejercicio, añadiremos un archivo a nuestro proyecto y crearemos un commit para cambiar la "memoria" de git.
 
 A continuación, escribe lo siguiente en tu terminal:
